@@ -1,0 +1,22 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .gitignore	(revision 5cf3fc78289cdd9f42ec8c6c3a7ee0164f0d7d7e)
++++ .gitignore	(date 1555142425000)
+@@ -14,13 +14,6 @@
+ *.properties
+ *.jar
+ 
+-/1.JavaSyntax/
+-/2.JavaCore/
+-/3.JavaMultithreading/
+-/4.JavaCollections/
+-/5.OnlineInternship/
+-/out/
+-/JavaRushPlugin.properties
+-/Instruction.png
++
+ /out.log
+ /out.log.*
