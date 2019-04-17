@@ -16108,3 +16108,12 @@ java.net.UnknownHostException: javarush.ru
 2019-04-17 10:24:27 INFO  ApacheHttpClient.testConnection(208) - result = true
 2019-04-17 10:24:27 INFO  ApacheHttpClient.testConnection(208) - result = true
 2019-04-17 10:24:27 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-04-17 10:24:57 INFO  ApacheHttpClient.testConnection(193) - responseCode = 200
+2019-04-17 10:24:57 INFO  ApacheHttpClient.testConnection(193) - responseCode = 200
+2019-04-17 10:24:57 INFO  ApacheHttpClient.testConnection(193) - responseCode = 200
+2019-04-17 10:24:57 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-04-17 10:24:57 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-04-17 10:24:57 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-04-17 10:25:01 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-17 10:25:01 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-17 10:25:01 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
