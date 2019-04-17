@@ -58,3 +58,5 @@
 2019-04-17 10:10:01 INFO  AbstractRestApiClient.startService(71) - EventsService started.
 2019-04-17 10:11:01 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
 2019-04-17 10:12:01 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-17 10:13:01 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-17 10:14:01 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
