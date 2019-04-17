@@ -60,3 +60,7 @@
 2019-04-17 10:12:01 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
 2019-04-17 10:13:01 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
 2019-04-17 10:14:01 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-17 10:15:01 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-17 10:16:01 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-17 10:17:01 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
+2019-04-17 10:18:01 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
