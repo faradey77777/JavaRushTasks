@@ -3506,3 +3506,6 @@
 2019-04-21 18:50:10 INFO  ApacheHttpClient.testConnection(208) - result = true
 2019-04-21 18:50:12 INFO  ApacheHttpClient.getWebResourceAsStream(485) - responseCode = 200
 2019-04-21 18:50:12 INFO  ApacheHttpClient.getFilteredTasks(324) - responseCode = 200
+2019-04-21 18:50:45 INFO  ApacheHttpClient.testConnection(193) - responseCode = 200
+2019-04-21 18:50:45 INFO  ApacheHttpClient.testConnection(208) - result = true
+2019-04-21 18:50:51 INFO  ApacheHttpClient.sendEvent(518) - responseCode = 200
