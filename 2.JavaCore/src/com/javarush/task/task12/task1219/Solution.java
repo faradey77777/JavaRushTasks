@@ -23,7 +23,7 @@ public class Solution {
 
 
     public class Human implements CanRun,CanSwim{
-        
+
 
         @Override
         public void run() {
