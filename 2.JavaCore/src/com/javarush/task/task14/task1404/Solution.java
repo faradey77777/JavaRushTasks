@@ -5,21 +5,23 @@ package com.javarush.task.task14.task1404;
 */
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.InputStreamReader;
 
 public class Solution {
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        String s = reader.readLine();
-        while (true){
-            if(!s.isEmpty()){
-                reader.close();
+
+        while(true) {
+            String s = reader.readLine();
+
+            if (s.equals("")) {
+                break;
             }
-            else {
-                System.out.println(CatFactory.getCatByKey(s));
+            Cat cat = CatFactory.getCatByKey(s);
+            System.out.println(cat.toString());
+
+
             }
-        }
     }
 
     static class CatFactory {

@@ -12,9 +12,12 @@ public class Solution {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         Person person = null;
         String key = null;
+        boolean go = true;
+        
 
-        key = reader.readLine();
-        switch (key){
+        while (go){
+            key = reader.readLine();
+        switch (key) {
             case "user":
                 Person person1 = new Person.User();
                 doWork(person1);
@@ -32,8 +35,10 @@ public class Solution {
                 doWork(person4);
                 break;
             default:
-              reader.close();
+                go = false;
                 break;
+        }
+
 
     }
 
