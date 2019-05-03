@@ -38,7 +38,7 @@ public class Solution {
         String s = reader.readLine();
         if ((s.equals("thriller")||s.equals("cartoon")||s.equals("soapOpera"))){
             Movie movie = MovieFactory.getMovie(s);
-            System.out.println((movie.getClass().getSimpleName()); // 8.2 вывести на экран movie.getClass().getSimpleName() вообще нахуй не понял
+            System.out.println((movie.getClass().getSimpleName())); // 8.2 вывести на экран movie.getClass().getSimpleName() вообще нахуй не понял
         }
         else{
             MovieFactory.getMovie(s); // для каждой строки которая не соотв ифу вызываю метод  MovieFactory.getMovie(s)

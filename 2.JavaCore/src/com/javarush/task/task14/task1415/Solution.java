@@ -8,6 +8,7 @@ import java.util.List;
 */
 
 public class Solution {
+    /*
     public static void main(String[] args) {
         List<Apartment> apartments = new ArrayList<Apartment>();
         apartments.add(new OneRoomApt());
@@ -20,7 +21,6 @@ public class Solution {
     public static void cleanAllApartments(List<Apartment> apartments) {
         for (int i = 0; i < apartments.size(); i++) {
             apartments.get(i);
-            i.
         }
     }
 
@@ -44,4 +44,6 @@ public class Solution {
             System.out.println("3 rooms are cleaned");
         }
     }
+
+ */
 }

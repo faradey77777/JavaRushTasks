@@ -11,7 +11,7 @@ public class Solution {
     public static void main(String[] args) {
         List<Number> list = new LinkedList<Number>();
         //3
-        list.add(new Double(1000));
+        list.add(new Double(1000f));
         list.add(new Double("123e-445632"));
         list.add(new Float(-90 / -3));
         list.remove(new Double("123e-445632"));
